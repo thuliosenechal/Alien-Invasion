@@ -5,6 +5,7 @@ Alien invasion: Python crash course
 ## Environment (Tested):
 
 OS: Win 10
+
 Python: Python3.8
 
 ## Requirements:
