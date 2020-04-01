@@ -2,4 +2,4 @@
 Alien invasion: Python crash course
 
 
-Módulo Pygame
+Pygame module
