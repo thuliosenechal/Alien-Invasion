@@ -2,12 +2,12 @@
 Alien invasion: Python crash course
 
 
-Environment(Tested):
+# ** Environment(Tested) **:
 
 OS: Win 10
 Python: Python3.8
 
-Requirements:
+# Requirements:
 
 Install Pygame module
 
