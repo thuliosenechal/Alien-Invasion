@@ -17,7 +17,7 @@ Install Pygame module
 
 - Click play to start the game
 - Space bar to shoot
-- left and right arrow to move the ship
+- left and right arrow button to move the ship
 
 
 ## GamePlay:
